@@ -5,7 +5,7 @@
 </div>
 <h3>Tecnologias:</h3>
 <div style="display:inline_block">
-  <img align="center" alt="lfs-SQL" heigth="20" width="50" style="background: white" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="lfs-SQL" heigth="20" width="50" style="background: #FFFFFF" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   &nbsp
   <img align="center" alt="lfs-MySQL" heigth="20" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   &nbsp
