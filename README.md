@@ -9,7 +9,7 @@
   &nbsp
   <img align="center" alt="lfs-MySQL" heigth="20" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   &nbsp
-  <img align="center" alt="lfs-PHP" heigth="20" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">  
+  <img align="center" alt="lfs-PHP" heigth="20" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">  
 </div>
 <h3> Contato: </h3>
     <a href="https://www.linkedin.com/in/lferreirajobs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
