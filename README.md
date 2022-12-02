@@ -7,9 +7,7 @@
 <div style="display:inline_block">
   <img align="center" alt="lfs-SQL" heigth="20" width="50" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   &nbsp
-  <img align="center" alt="lfs-MySQL" heigth="20" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  &nbsp
-  <img align="center" alt="lfs-HTML5" heigth="20" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">  
+  <img align="center" alt="lfs-MySQL" heigth="20" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> 
   &nbsp
   <img align="center" alt="lfs-HTML5" heigth="20" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> 
 </div>
