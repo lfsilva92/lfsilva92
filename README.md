@@ -10,7 +10,7 @@
   <img align="center" alt="lfs-MySQL" heigth="20" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> 
   &nbsp
   <img align="center" alt="lfs-HTML5" heigth="20" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> 
-  &Nbsp
+  &nbsp
   <img align="center" alt="lfs-HTML5" heigth="20" width="50" src="https://github.com/devicons/devicon/tree/master/icons/python/python-original.svg"> 
 </div>
 <h3> Contato: </h3>
