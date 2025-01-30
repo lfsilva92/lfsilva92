@@ -1,8 +1,3 @@
-<style>
-  .table_component table {
-    border: none;
-  }
-</style>
 <div>
   <h3> Olá, me chamo Lucas e esse é meu GitHub </h3>
   <!--<a href="https://github.com/lfsilva92">
@@ -10,7 +5,7 @@
 </div>
 <h3>Tecnologias:</h3>
  
-<div align="left" class="table_component">
+<div align="left">
   <table>
     <tr>
       <th>
