@@ -1,8 +1,8 @@
-<div>
+
   <h3> Olá, me chamo Lucas e esse é meu GitHub </h3>
   <!--<a href="https://github.com/lfsilva92">
   <img src="https://github-readme-stats.vercel.app/api?username=lfsilva92&show_icons=true&theme=gotham"/>-->
-</div>
+
 <h3>Tecnologias:</h3>
  
 <div align="left">
