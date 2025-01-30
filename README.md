@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux logo" />       
 </div>
 <!--
 <div style="display:inline_block">
